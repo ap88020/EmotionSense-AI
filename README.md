@@ -36,21 +36,16 @@ This project demonstrates:
 
 ## 🎯 Home Interface
 
-<p align="center">
   ![alt text](image.png)
-</p>
-
-<p align="center">
-  ![alt text](image-1.png)
-</p>
 
 ---
 
 ## 📊 Emotion Prediction Output
 
-<p align="center">
+<!-- <p align="center">
   <img width="900" src="https://miro.medium.com/v2/resize:fit:1400/1*J8kh2x2oG89eN5GdS4z0lw.png">
-</p>
+</p> -->
+  ![alt text](image-1.png)
 
 ---
 
