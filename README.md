@@ -37,11 +37,11 @@ This project demonstrates:
 ## 🎯 Home Interface
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+  ![alt text](image.png)
 </p>
 
 <p align="center">
-  <img width="900" src="https://miro.medium.com/v2/resize:fit:1400/1*0VV6k9uk9x8hM4dM8Jf1lw.png">
+  ![alt text](image-1.png)
 </p>
 
 ---
